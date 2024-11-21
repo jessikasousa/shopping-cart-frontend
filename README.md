@@ -80,6 +80,10 @@ REACT_APP_API_URL=http://localhost:8080
 - **Gerenciar Carrinho**: Clique no ícone de carrinho no canto superior direito para acessar o carrinho.
   ![image](https://github.com/user-attachments/assets/b9833954-9935-45dd-b4f2-f1b76f649237)
 
+---
+## Demonstração
+
+Vídeo demonstração: https://www.loom.com/share/afc4664691e34b5e93def640ce8ee495
 
 ---
 
